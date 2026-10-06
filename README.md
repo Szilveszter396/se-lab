@@ -1,7 +1,7 @@
 ![Java CI with Maven](https://github.com)
 ![License: MIT](https://shields.io)
 
-
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 # SE Spaceship
 
